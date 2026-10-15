@@ -6,7 +6,7 @@ _Share some information about yourself, including your class, major, jobs, and e
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
 ## 🎉 Interests
-![Neocities](https://neocities.org/img/neocitieslogo.svg&logoColor=white)
+![Neocities](https://jamesland.org/Images/Badges/neocities.gif)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0052CC?logo=protonvpn&logoColor=white)
 ![Open Source](https://img.shields.io/badge/Open%20Source-3DA639?logo=opensourceinitiative&logoColor=white)
 ## 🔗 Links
