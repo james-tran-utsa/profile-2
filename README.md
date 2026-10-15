@@ -1,6 +1,6 @@
 ## 👏 Hi, I'm James Tran
 ##  About Me
-_Share some information about yourself, including your class, major, jobs, and extra-curriculars._
+I am majoring in Cyber Security at UTSA. I am the webmaster of two websites.
 ## ⚒️ Skills
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
@@ -13,5 +13,7 @@ _Share some information about yourself, including your class, major, jobs, and e
 ## 🔗 Links
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/james-tran-utsa)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/james-tran-86b117444)
+[![Website](https://jamesland.org/Images/Badges/James_Badge.gif)](https://jamesland.org/)
+[![Website2](https://jamesland.org/Images/Badges/miyu66.png)](https://miyu66.org/)
 
-_"Your sample quote here!"_
+_"Hello World"_
